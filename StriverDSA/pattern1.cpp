@@ -14,3 +14,6 @@ int main(){
     cin>>n;
     printpattern(n);
 }
+
+
+    
